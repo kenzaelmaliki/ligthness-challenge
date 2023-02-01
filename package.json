@@ -1,0 +1,24 @@
+{
+  "name": "challenge17",
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": "> 0.25%, not dead",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenzaelmaliki/ligthness-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenzaelmaliki/ligthness-challenge/issues"
+  },
+  "homepage": "https://github.com/kenzaelmaliki/ligthness-challenge#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
